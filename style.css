@@ -38,6 +38,7 @@ color: white;
     display: flex;
     align-items: center;
     background: linear-gradient(135deg,#015f06,#53998a);
+    
 
 
 }
@@ -49,6 +50,7 @@ color: white;
     border: none;
     border-radius: 10px;
     font-size: 18px;
+   
     
 
 }
@@ -69,8 +71,8 @@ color: white;
  }
  
 .input-box input::-webkit-calendar-picker-indicator{
-    top: 0;
-    left: 0;
+     top: 0;
+    left: 0; 
     bottom: 0;
     right: 0;
     width: auto;
